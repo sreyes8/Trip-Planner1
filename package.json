@@ -1,0 +1,19 @@
+{
+  "name": "trip-planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreyes8/Trip-Planner1.git"
+  },
+  "author": "Stefanie Reyes and John Tieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreyes8/Trip-Planner1/issues"
+  },
+  "homepage": "https://github.com/sreyes8/Trip-Planner1#readme"
+}
